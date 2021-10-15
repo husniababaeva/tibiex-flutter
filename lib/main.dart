@@ -23,11 +23,7 @@ class MyApp extends StatelessWidget {
       title: "shopping cart",
       // theme: kDarkTheme,
       debugShowCheckedModeBanner: false,
-      home: profile(), //SpeedFab(),//HomePage(),////Otp(),login(),
-      // SingUpNumber(),
-      // SignUp(),
-    // FabWithIcons
-    // (),Successful(),
+      home: profile(), //SpeedFab(),//HomePage(),////Otp(),login(),SingUpNumber(),SignUp(),FabWithIcons(),Successful(),
 
 
     );
