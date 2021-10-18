@@ -117,14 +117,10 @@ dev_dependencies:
 # The following section is specific to Flutter.
 flutter:
   fonts:
-    - family: Ubuntu
+    - family: Varela
       fonts:
-        - asset: assets/fonts/Ubuntu-Regular.ttf
-        #- asset: assets/fonts/Ubuntu-Bold.ttf
-        #  weight: 700
-  #  #       - asset: fonts/TrajanPro_Bold.ttf
-  #  #         weight: 700
-  #  #
+        - asset: assets/fonts/VarelaRound-Regular.ttf
+
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
