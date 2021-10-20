@@ -88,6 +88,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  roundcheckbox: ^2.0.3
   navigation_action_bar: ^0.0.1
   sms_autofill: ^2.0.0
   flutter_share_me: ^0.9.2
