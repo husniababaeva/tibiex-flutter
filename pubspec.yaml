@@ -88,6 +88,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  spincircle_bottom_bar: ^1.0.0
   roundcheckbox: ^2.0.3
   navigation_action_bar: ^0.0.1
   sms_autofill: ^2.0.0
