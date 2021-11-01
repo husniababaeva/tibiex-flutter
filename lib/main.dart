@@ -7,13 +7,14 @@ import 'package:flutter/material.dart';
 //import 'auth/login.dart';
 //import 'page/profile.dart';
 import 'listcards/home_cards_page.dart';
+import 'package:get/get.dart';
 
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return GetMaterialApp(
       title: "shopping cart",
       // theme: kDarkTheme,
       debugShowCheckedModeBanner: false,

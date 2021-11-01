@@ -63,7 +63,7 @@ assets:
 #  # For details regarding fonts from package dependencies,
 #  # see https://flutter.dev/custom-fonts/#from-packages
 
-name: flutterloginui
+name: tibiex
 description: A new Flutter application.
 
 # The following line prevents the package from being accidentally published to
@@ -95,6 +95,7 @@ dependencies:
   flutter_share_me: ^0.9.2
   flutter_speed_dial: ^1.2.1
   unicorndial: ^1.1.5
+  get: ^4.3.8
   flutter_slidable: any
   floor: any
   badges: any
@@ -102,7 +103,6 @@ dependencies:
   getwidget: ^2.0.3
   floor_generator: any
   build_runner: any
-
 
 
   # The following adds the Cupertino Icons font to your application.
