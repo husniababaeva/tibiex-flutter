@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 //import 'auth/succesful.dart';
 //import 'auth/login.dart';
 //import 'page/profile.dart';
-import 'listcards/home_cards_page.dart';
+import 'package:tibiex/pages/home/home_cards_page.dart';
 import 'package:get/get.dart';
 
 void main() => runApp(MyApp());
