@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 //import 'auth/SignUpNumber.dart';
 //import 'auth/succesful.dart';
 //import 'auth/login.dart';
-//import 'page/profile.dart';
+
 import 'package:tibiex/pages/home/home_cards_page.dart';
 import 'package:get/get.dart';
 

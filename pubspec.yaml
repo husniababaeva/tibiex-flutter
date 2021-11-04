@@ -89,7 +89,9 @@ dependencies:
   flutter:
     sdk: flutter
   spincircle_bottom_bar: ^1.0.0
-  roundcheckbox: ^2.0.3
+
+#  circular_menu: ^1.2.3
+#  roundcheckbox: ^2.0.3
   navigation_action_bar: ^0.0.1
   sms_autofill: ^2.0.0
   flutter_share_me: ^0.9.2
