@@ -1,10 +1,10 @@
-// import 'package:flutter/cupertino.dart';
+ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 //import 'auth/SignUp.dart';
 //import 'auth/otp.dart';
 //import 'auth/SignUpNumber.dart';
 //import 'auth/succesful.dart';
-//import 'auth/login.dart';
+import 'auth/login.dart';
 
 import 'package:tibiex/pages/home/home_cards_page.dart';
 import 'package:get/get.dart';
@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       title: "shopping cart",
       // theme: kDarkTheme,
       debugShowCheckedModeBanner: false,
-      home: HomeCardsPage(), //profile(),HomePage(),Otp(),Login(),
+      home: Login(),//HomeCardsPage(), //profile(),HomePage(),Otp(),
       // SingUpNumber(),
       // SignUp(),FabWithIcons(),Successful(),
     );
